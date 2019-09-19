@@ -1,0 +1,24 @@
+{
+  "name": "-acme-product-offerings-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runlolarun831/-acme-product-offerings-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runlolarun831/-acme-product-offerings-api/issues"
+  },
+  "homepage": "https://github.com/runlolarun831/-acme-product-offerings-api#readme",
+  "dependencies": {
+    "pg": "^7.12.1",
+    "sequelize": "^5.19.0"
+  }
+}

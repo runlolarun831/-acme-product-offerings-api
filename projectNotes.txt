@@ -1,0 +1,7 @@
+name your repo acme-product-offerings-api
+index.html is provided below
+Set up data layer in db.js
+Product with uuid id, unique name, and suggestedPrice decimal
+Company with uuid id, unique name
+Offering with price decimal and companyId and productId
+Set up API for /api/products, /api/companies, /api/offerings and / routes
