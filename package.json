@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/runlolarun831/-acme-product-offerings-api#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "pg": "^7.12.1",
     "sequelize": "^5.19.0"
   }
